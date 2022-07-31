@@ -1,10 +1,10 @@
 # Hello World!
 
-> Hello my name is João Pedro, I'm 17 years old and I'm currently studying a technician in systems development integrated to high school, when I entered this course about 1 year ago I had no idea what I was going to do, and then I fell in love with this world!
+> Olá meu nome é João Pedro, tenho 17 anos e atualmente estou cursando técnico em desenvolvimento de sistemas integrado ao ensino médio, ao entrar neste curso a cerca de 1 ano eu não fazia ideia do que iria fazer, e então me apaixonei por este mundo!
 >
 > [Personal Blog](https://jpedrosnts.vercel.app/)
 
-## Technologies
+## Tecnologias
 
 <div>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" title="Java" alt="ícone Java" height="30" width="35"/>
@@ -16,4 +16,12 @@
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" title="TypeScript" alt="ícone TypeScript" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React.js" alt="ícone React.js" height="30" width="40"/>
     <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="ícone Git" height="30" width="40"/>
+</div>
+
+## Contato
+
+<div>
+<a href="https://instagram.com/jpedrosnts" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:jp.siq.snts@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/jpedrosnts" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
 </div>
